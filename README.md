@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FruitAnalyzer M.S. Management of Information Systems, B.S. Biology
+- 👀 I’m interested in data analysis and data visualization
+- 🌱 I’m currently learning 
+- 📫 How to reach me EMAIL: jeremy.gonzalez@snowfruit.com
+- ⚡ Fun fact: I speak English, Spanish, and Japanese
